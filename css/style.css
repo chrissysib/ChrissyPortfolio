@@ -1,0 +1,69 @@
+h1 {
+	font: bold 18px helvetica,ariel,sans-serif;
+	text-transform: uppercase;
+	color:black;
+}
+h2 {
+	font: bold 14px helvetica,ariel,sans-serif;
+	color:#4f4c4c;
+}
+h3 {
+	font: bold 12px helvetica,ariel,sans-serif;
+	text-transform: uppercase;
+}
+h4 {
+	font: bold 12px helvetica,ariel,sans-serif;
+}
+h5 {
+	font: italic 10px helvetica,ariel,sans-serif;
+	color: #808000; 
+	text-transform: uppercase;
+}
+em {
+	font: italic 12px helvetica,ariel,sans-serif;
+}
+nav {
+	font: 12px helvetica,ariel,sans-serif;
+}
+a {
+	color: #808000;
+}
+p {
+	font: 12px helvetica,ariel,sans-serif;
+}
+body {
+	background-color: #F5F5F5;
+	border:10px black solid;
+	padding:20px;
+	width:600px;
+}
+li {
+	font: italic 12px helvetica,ariel,sans-serif;
+	color: #808000;
+	line-height: 1.5;
+}
+img {
+    float: left;
+    margin: 0 20px 20px 0;
+    border: 5px black solid;
+
+}
+.image2 {
+    margin: 0 5px 0 5px;
+    border: none;
+    height: 30px;
+    width: 30px;
+    padding-bottom: 10px;
+}
+nav {
+	margin-bottom: 0px;
+}
+span {
+	border-bottom: 5px black solid;
+}
+hr { 
+   	color: black;
+   	size: 5px;
+   	width: 100%;
+
+}
